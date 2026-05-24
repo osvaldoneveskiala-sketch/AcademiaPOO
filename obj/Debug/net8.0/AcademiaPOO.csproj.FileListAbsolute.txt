@@ -1,0 +1,14 @@
+C:\Users\OSVALDO\Documents\AcademiaPOO\bin\Debug\net8.0\AcademiaPOO.exe
+C:\Users\OSVALDO\Documents\AcademiaPOO\bin\Debug\net8.0\AcademiaPOO.deps.json
+C:\Users\OSVALDO\Documents\AcademiaPOO\bin\Debug\net8.0\AcademiaPOO.runtimeconfig.json
+C:\Users\OSVALDO\Documents\AcademiaPOO\bin\Debug\net8.0\AcademiaPOO.dll
+C:\Users\OSVALDO\Documents\AcademiaPOO\bin\Debug\net8.0\AcademiaPOO.pdb
+C:\Users\OSVALDO\Documents\AcademiaPOO\obj\Debug\net8.0\AcademiaPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OSVALDO\Documents\AcademiaPOO\obj\Debug\net8.0\AcademiaPOO.AssemblyInfoInputs.cache
+C:\Users\OSVALDO\Documents\AcademiaPOO\obj\Debug\net8.0\AcademiaPOO.AssemblyInfo.cs
+C:\Users\OSVALDO\Documents\AcademiaPOO\obj\Debug\net8.0\AcademiaPOO.csproj.CoreCompileInputs.cache
+C:\Users\OSVALDO\Documents\AcademiaPOO\obj\Debug\net8.0\AcademiaPOO.dll
+C:\Users\OSVALDO\Documents\AcademiaPOO\obj\Debug\net8.0\refint\AcademiaPOO.dll
+C:\Users\OSVALDO\Documents\AcademiaPOO\obj\Debug\net8.0\AcademiaPOO.pdb
+C:\Users\OSVALDO\Documents\AcademiaPOO\obj\Debug\net8.0\AcademiaPOO.genruntimeconfig.cache
+C:\Users\OSVALDO\Documents\AcademiaPOO\obj\Debug\net8.0\ref\AcademiaPOO.dll
